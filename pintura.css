@@ -1,14 +1,23 @@
-h1 {
-    color: red;  
+
+input[type="text"] {
+    width: 100px;       
+    height: 20px;      
+    padding: 5px;     
+    border: 1px solid #ccc;  
+    box-sizing: border-box;   
 }
 
 
-p {
-    font-weight: bold;
+button {
+    background-color: red; 
+    color: white;             
+    border: none;           
+    padding: 10px 20px;    
+    cursor: pointer;         
+    font-size: 14px;          
 }
 
 
-img {
-    width: 400px;  
-    height: 600px; 
+button:hover {
+    background-color: #333;  
 }
