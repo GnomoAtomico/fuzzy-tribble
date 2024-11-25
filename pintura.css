@@ -1,5 +1,11 @@
+
 input[type="text"] {
     width: 100px;    
+
+
+input[type="text"] {
+    width: 100px;       
+
     height: 20px;      
     padding: 5px;     
     border: 1px solid #ccc;  
@@ -8,15 +14,27 @@ input[type="text"] {
 
 
 button {
+
     background-color: red;   
     color: white;            
     border: none;           
     padding: 10px 20px;      
     cursor: pointer;        
     font-size: 14px;        
+
+    background-color: red; 
+    color: white;             
+    border: none;           
+    padding: 10px 20px;    
+    cursor: pointer;         
+    font-size: 14px;          
+
 }
 
 
 button:hover {
+
     background-color: darkred;
+    background-color: #333;  
+
 }
