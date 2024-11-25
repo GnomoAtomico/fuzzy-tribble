@@ -27,17 +27,6 @@ Este é um projeto de desenvolvimento web que consiste na criação de uma pági
 - [x] Desfazer o commit que alterou a cor do botão
 - [x] Hospedagem do site no GitHub Pages
 
-## Como Executar o Projeto Localmente
+## Como Executar o Projeto 
 
-Para rodar o projeto em sua máquina local, siga os seguintes passos:
-
-1. **Clone o repositório:**
-   Se ainda não tiver clonado o repositório, use o seguinte comando no terminal:
-   ```bash
-   git clone https://github.com/usuario/projeto-dupla.git
-
-2. **Abra a pasta do repositório: Navegue até a pasta do projeto:**
-
-bash
-
-cd projeto-dupla
+Acesse:  https://gnomoatomico.github.io/fuzzy-tribble/
